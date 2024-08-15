@@ -1,0 +1,561 @@
+(anonymous) @ https://my.port.mv/dist/js/libs-86c9428bf6.min.js?time=16600646091:1
+(anonymous) @ https://my.port.mv/dist/js/libs-86c9428bf6.min.js?time=16600646091:1
+(anonymous) @ https://my.port.mv/dist/js/libs-86c9428bf6.min.js?time=16600646091:1
+$eval @ https://my.port.mv/dist/js/libs-86c9428bf6.min.js?time=16600646091:1
+$digest @ https://my.port.mv/dist/js/libs-86c9428bf6.min.js?time=16600646091:1
+$apply @ https://my.port.mv/dist/js/libs-86c9428bf6.min.js?time=16600646091:1
+(anonymous) @ https://my.port.mv/dist/js/libs-86c9428bf6.min.js?time=16600646091:1
+je @ https://my.port.mv/dist/js/libs-86c9428bf6.min.js?time=16600646091:1
+e @ https://my.port.mv/dist/js/libs-86c9428bf6.min.js?time=16600646091:1
+submit @ chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf/inline/injected.js:42
+ss @ chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf/inline/injected.js:42
+IF @ chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf/inline/injected.js:42
+pb @ chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf/inline/injected.js:42
+(anonymous) @ chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf/inline/injected.js:42
+(anonymous) @ chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf/inline/injected.js:42
+(anonymous) @ chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf/inline/injected.js:40
+r @ chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf/inline/injected.js:40
+
+
+curl 'https://my.port.mv/main/consignment/' \
+  -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Cache-Control: max-age=0' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYmFuZGhhcnUtcG9vbC9hcGkvbG9naW4iLCJpYXQiOjE3MjM2MzgzMDgsImV4cCI6MTcyMzY4MTUwOCwibmJmIjoxNzIzNjM4MzA4LCJqdGkiOiI4TThIeVpzV2ZUWDlJdUlzIiwic3ViIjo0MjIsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEiLCJwcm9maWxlX2lkIjoxNDYwMiwibG9jYXRpb24iOiIxIiwicmVxdWlyZXNfcGFzc19jaGFuZ2UiOmZhbHNlLCJ1c2VyIjp7InVzZXJuYW1lIjoiQkhNMzMwIiwibmFtZSI6IkJITSBUUkFERVJTIiwiaWRlbnRpZmllciI6IlNQLTA1MzIvMjAxNSIsInByb2ZpbGVfaWQiOjE0NjAyLCJlbXBsb3llZV9ubyI6bnVsbH19.n1iP3LmV3ESG2mWXwdQWu3VuqbCCgwqcSkGe3NMfNk0; TS01c34874030=015cf0519f567e8f847379f85b9f8f9a65661a312289bdb013704168184cbad1b482676932986445f61182e8a0619524d6f204f42f; TS01c34874=011d86dea8c3e47ba4276c1bffb24d4dd94c7a21b3e1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f629493097a7df0f8e85f3de8286e265b55d5e33f3' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://www.google.com/' \
+  -H 'Sec-Fetch-Dest: document' \
+  -H 'Sec-Fetch-Mode: navigate' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'Sec-Fetch-User: ?1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://my.port.mv/dist/css/style-fd5bf1e830.min.css?time=1660064606' \
+  -H 'Accept: text/css,*/*;q=0.1' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYmFuZGhhcnUtcG9vbC9hcGkvbG9naW4iLCJpYXQiOjE3MjM2MzgzMDgsImV4cCI6MTcyMzY4MTUwOCwibmJmIjoxNzIzNjM4MzA4LCJqdGkiOiI4TThIeVpzV2ZUWDlJdUlzIiwic3ViIjo0MjIsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEiLCJwcm9maWxlX2lkIjoxNDYwMiwibG9jYXRpb24iOiIxIiwicmVxdWlyZXNfcGFzc19jaGFuZ2UiOmZhbHNlLCJ1c2VyIjp7InVzZXJuYW1lIjoiQkhNMzMwIiwibmFtZSI6IkJITSBUUkFERVJTIiwiaWRlbnRpZmllciI6IlNQLTA1MzIvMjAxNSIsInByb2ZpbGVfaWQiOjE0NjAyLCJlbXBsb3llZV9ubyI6bnVsbH19.n1iP3LmV3ESG2mWXwdQWu3VuqbCCgwqcSkGe3NMfNk0; TS01c34874030=015cf0519f567e8f847379f85b9f8f9a65661a312289bdb013704168184cbad1b482676932986445f61182e8a0619524d6f204f42f; TS01c34874=011d86dea8c3e47ba4276c1bffb24d4dd94c7a21b3e1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f629493097a7df0f8e85f3de8286e265b55d5e33f3' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://my.port.mv/main/consignment/' \
+  -H 'Sec-Fetch-Dest: style' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'Referer: https://my.port.mv/' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500&display=swap' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'Referer: https://my.port.mv/' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://my.port.mv/socket.io/socket.io.js' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYmFuZGhhcnUtcG9vbC9hcGkvbG9naW4iLCJpYXQiOjE3MjM2MzgzMDgsImV4cCI6MTcyMzY4MTUwOCwibmJmIjoxNzIzNjM4MzA4LCJqdGkiOiI4TThIeVpzV2ZUWDlJdUlzIiwic3ViIjo0MjIsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEiLCJwcm9maWxlX2lkIjoxNDYwMiwibG9jYXRpb24iOiIxIiwicmVxdWlyZXNfcGFzc19jaGFuZ2UiOmZhbHNlLCJ1c2VyIjp7InVzZXJuYW1lIjoiQkhNMzMwIiwibmFtZSI6IkJITSBUUkFERVJTIiwiaWRlbnRpZmllciI6IlNQLTA1MzIvMjAxNSIsInByb2ZpbGVfaWQiOjE0NjAyLCJlbXBsb3llZV9ubyI6bnVsbH19.n1iP3LmV3ESG2mWXwdQWu3VuqbCCgwqcSkGe3NMfNk0; TS01c34874030=015cf0519f567e8f847379f85b9f8f9a65661a312289bdb013704168184cbad1b482676932986445f61182e8a0619524d6f204f42f; TS01c34874=011d86dea8c3e47ba4276c1bffb24d4dd94c7a21b3e1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f629493097a7df0f8e85f3de8286e265b55d5e33f3' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://my.port.mv/main/consignment/' \
+  -H 'Sec-Fetch-Dest: script' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://cdnjs.cloudflare.com/ajax/libs/aws-sdk/2.639.0/aws-sdk.min.js' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'Referer: https://my.port.mv/' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://my.port.mv/config/env.js?time=1723638743' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYmFuZGhhcnUtcG9vbC9hcGkvbG9naW4iLCJpYXQiOjE3MjM2MzgzMDgsImV4cCI6MTcyMzY4MTUwOCwibmJmIjoxNzIzNjM4MzA4LCJqdGkiOiI4TThIeVpzV2ZUWDlJdUlzIiwic3ViIjo0MjIsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEiLCJwcm9maWxlX2lkIjoxNDYwMiwibG9jYXRpb24iOiIxIiwicmVxdWlyZXNfcGFzc19jaGFuZ2UiOmZhbHNlLCJ1c2VyIjp7InVzZXJuYW1lIjoiQkhNMzMwIiwibmFtZSI6IkJITSBUUkFERVJTIiwiaWRlbnRpZmllciI6IlNQLTA1MzIvMjAxNSIsInByb2ZpbGVfaWQiOjE0NjAyLCJlbXBsb3llZV9ubyI6bnVsbH19.n1iP3LmV3ESG2mWXwdQWu3VuqbCCgwqcSkGe3NMfNk0; TS01c34874030=015cf0519f567e8f847379f85b9f8f9a65661a312289bdb013704168184cbad1b482676932986445f61182e8a0619524d6f204f42f; TS01c34874=011d86dea8c3e47ba4276c1bffb24d4dd94c7a21b3e1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f629493097a7df0f8e85f3de8286e265b55d5e33f3' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://my.port.mv/main/consignment/' \
+  -H 'Sec-Fetch-Dest: script' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://my.port.mv/dist/js/libs-86c9428bf6.min.js?time=16600646091' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYmFuZGhhcnUtcG9vbC9hcGkvbG9naW4iLCJpYXQiOjE3MjM2MzgzMDgsImV4cCI6MTcyMzY4MTUwOCwibmJmIjoxNzIzNjM4MzA4LCJqdGkiOiI4TThIeVpzV2ZUWDlJdUlzIiwic3ViIjo0MjIsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEiLCJwcm9maWxlX2lkIjoxNDYwMiwibG9jYXRpb24iOiIxIiwicmVxdWlyZXNfcGFzc19jaGFuZ2UiOmZhbHNlLCJ1c2VyIjp7InVzZXJuYW1lIjoiQkhNMzMwIiwibmFtZSI6IkJITSBUUkFERVJTIiwiaWRlbnRpZmllciI6IlNQLTA1MzIvMjAxNSIsInByb2ZpbGVfaWQiOjE0NjAyLCJlbXBsb3llZV9ubyI6bnVsbH19.n1iP3LmV3ESG2mWXwdQWu3VuqbCCgwqcSkGe3NMfNk0; TS01c34874030=015cf0519f567e8f847379f85b9f8f9a65661a312289bdb013704168184cbad1b482676932986445f61182e8a0619524d6f204f42f; TS01c34874=011d86dea8c3e47ba4276c1bffb24d4dd94c7a21b3e1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f629493097a7df0f8e85f3de8286e265b55d5e33f3' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://my.port.mv/main/consignment/' \
+  -H 'Sec-Fetch-Dest: script' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://my.port.mv/dist/js/app-6161afc1ea.min.js?time=16600646091' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYmFuZGhhcnUtcG9vbC9hcGkvbG9naW4iLCJpYXQiOjE3MjM2MzgzMDgsImV4cCI6MTcyMzY4MTUwOCwibmJmIjoxNzIzNjM4MzA4LCJqdGkiOiI4TThIeVpzV2ZUWDlJdUlzIiwic3ViIjo0MjIsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEiLCJwcm9maWxlX2lkIjoxNDYwMiwibG9jYXRpb24iOiIxIiwicmVxdWlyZXNfcGFzc19jaGFuZ2UiOmZhbHNlLCJ1c2VyIjp7InVzZXJuYW1lIjoiQkhNMzMwIiwibmFtZSI6IkJITSBUUkFERVJTIiwiaWRlbnRpZmllciI6IlNQLTA1MzIvMjAxNSIsInByb2ZpbGVfaWQiOjE0NjAyLCJlbXBsb3llZV9ubyI6bnVsbH19.n1iP3LmV3ESG2mWXwdQWu3VuqbCCgwqcSkGe3NMfNk0; TS01c34874030=015cf0519f567e8f847379f85b9f8f9a65661a312289bdb013704168184cbad1b482676932986445f61182e8a0619524d6f204f42f; TS01c34874=011d86dea8c3e47ba4276c1bffb24d4dd94c7a21b3e1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f629493097a7df0f8e85f3de8286e265b55d5e33f3' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://my.port.mv/main/consignment/' \
+  -H 'Sec-Fetch-Dest: script' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://my.port.mv/dist/templates/partials-2cd154613d.min.js?time=16600646091' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYmFuZGhhcnUtcG9vbC9hcGkvbG9naW4iLCJpYXQiOjE3MjM2MzgzMDgsImV4cCI6MTcyMzY4MTUwOCwibmJmIjoxNzIzNjM4MzA4LCJqdGkiOiI4TThIeVpzV2ZUWDlJdUlzIiwic3ViIjo0MjIsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEiLCJwcm9maWxlX2lkIjoxNDYwMiwibG9jYXRpb24iOiIxIiwicmVxdWlyZXNfcGFzc19jaGFuZ2UiOmZhbHNlLCJ1c2VyIjp7InVzZXJuYW1lIjoiQkhNMzMwIiwibmFtZSI6IkJITSBUUkFERVJTIiwiaWRlbnRpZmllciI6IlNQLTA1MzIvMjAxNSIsInByb2ZpbGVfaWQiOjE0NjAyLCJlbXBsb3llZV9ubyI6bnVsbH19.n1iP3LmV3ESG2mWXwdQWu3VuqbCCgwqcSkGe3NMfNk0; TS01c34874030=015cf0519f567e8f847379f85b9f8f9a65661a312289bdb013704168184cbad1b482676932986445f61182e8a0619524d6f204f42f; TS01c34874=011d86dea8c3e47ba4276c1bffb24d4dd94c7a21b3e1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f629493097a7df0f8e85f3de8286e265b55d5e33f3' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://my.port.mv/main/consignment/' \
+  -H 'Sec-Fetch-Dest: script' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa/inline/injected.js' \
+  -H 'Referer;' \
+  -H 'Origin: https://my.port.mv' \
+  -H 'DNT: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' ;
+curl 'chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf/inline/injected.js' \
+  -H 'Referer;' \
+  -H 'Origin: https://my.port.mv' \
+  -H 'DNT: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' ;
+curl 'https://fonts.gstatic.com/s/robotocondensed/v27/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7DQk6YvM.woff2' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'Referer: https://fonts.googleapis.com/' \
+  -H 'Origin: https://my.port.mv' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://my.port.mv/api/user_details' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYmFuZGhhcnUtcG9vbC9hcGkvbG9naW4iLCJpYXQiOjE3MjM2MzgzMDgsImV4cCI6MTcyMzY4MTUwOCwibmJmIjoxNzIzNjM4MzA4LCJqdGkiOiI4TThIeVpzV2ZUWDlJdUlzIiwic3ViIjo0MjIsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEiLCJwcm9maWxlX2lkIjoxNDYwMiwibG9jYXRpb24iOiIxIiwicmVxdWlyZXNfcGFzc19jaGFuZ2UiOmZhbHNlLCJ1c2VyIjp7InVzZXJuYW1lIjoiQkhNMzMwIiwibmFtZSI6IkJITSBUUkFERVJTIiwiaWRlbnRpZmllciI6IlNQLTA1MzIvMjAxNSIsInByb2ZpbGVfaWQiOjE0NjAyLCJlbXBsb3llZV9ubyI6bnVsbH19.n1iP3LmV3ESG2mWXwdQWu3VuqbCCgwqcSkGe3NMfNk0; TS01c34874030=015cf0519f567e8f847379f85b9f8f9a65661a312289bdb013704168184cbad1b482676932986445f61182e8a0619524d6f204f42f; TS01c34874=011d86dea8c3e47ba4276c1bffb24d4dd94c7a21b3e1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f629493097a7df0f8e85f3de8286e265b55d5e33f3' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://my.port.mv/main/consignment/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://my.port.mv/api/active_sessions' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYmFuZGhhcnUtcG9vbC9hcGkvbG9naW4iLCJpYXQiOjE3MjM2MzgzMDgsImV4cCI6MTcyMzY4MTUwOCwibmJmIjoxNzIzNjM4MzA4LCJqdGkiOiI4TThIeVpzV2ZUWDlJdUlzIiwic3ViIjo0MjIsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEiLCJwcm9maWxlX2lkIjoxNDYwMiwibG9jYXRpb24iOiIxIiwicmVxdWlyZXNfcGFzc19jaGFuZ2UiOmZhbHNlLCJ1c2VyIjp7InVzZXJuYW1lIjoiQkhNMzMwIiwibmFtZSI6IkJITSBUUkFERVJTIiwiaWRlbnRpZmllciI6IlNQLTA1MzIvMjAxNSIsInByb2ZpbGVfaWQiOjE0NjAyLCJlbXBsb3llZV9ubyI6bnVsbH19.n1iP3LmV3ESG2mWXwdQWu3VuqbCCgwqcSkGe3NMfNk0; TS01c34874030=015cf0519f567e8f847379f85b9f8f9a65661a312289bdb013704168184cbad1b482676932986445f61182e8a0619524d6f204f42f; TS01c34874=011d86dea8c3e47ba4276c1bffb24d4dd94c7a21b3e1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f629493097a7df0f8e85f3de8286e265b55d5e33f3' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://my.port.mv/main/consignment/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://my.port.mv/api/announcements' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYmFuZGhhcnUtcG9vbC9hcGkvbG9naW4iLCJpYXQiOjE3MjM2MzgzMDgsImV4cCI6MTcyMzY4MTUwOCwibmJmIjoxNzIzNjM4MzA4LCJqdGkiOiI4TThIeVpzV2ZUWDlJdUlzIiwic3ViIjo0MjIsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEiLCJwcm9maWxlX2lkIjoxNDYwMiwibG9jYXRpb24iOiIxIiwicmVxdWlyZXNfcGFzc19jaGFuZ2UiOmZhbHNlLCJ1c2VyIjp7InVzZXJuYW1lIjoiQkhNMzMwIiwibmFtZSI6IkJITSBUUkFERVJTIiwiaWRlbnRpZmllciI6IlNQLTA1MzIvMjAxNSIsInByb2ZpbGVfaWQiOjE0NjAyLCJlbXBsb3llZV9ubyI6bnVsbH19.n1iP3LmV3ESG2mWXwdQWu3VuqbCCgwqcSkGe3NMfNk0; TS01c34874030=015cf0519f567e8f847379f85b9f8f9a65661a312289bdb013704168184cbad1b482676932986445f61182e8a0619524d6f204f42f; TS01c34874=011d86dea8c3e47ba4276c1bffb24d4dd94c7a21b3e1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f629493097a7df0f8e85f3de8286e265b55d5e33f3' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://my.port.mv/main/consignment/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://my.port.mv/api/bill_of_lading_documents' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYmFuZGhhcnUtcG9vbC9hcGkvbG9naW4iLCJpYXQiOjE3MjM2MzgzMDgsImV4cCI6MTcyMzY4MTUwOCwibmJmIjoxNzIzNjM4MzA4LCJqdGkiOiI4TThIeVpzV2ZUWDlJdUlzIiwic3ViIjo0MjIsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEiLCJwcm9maWxlX2lkIjoxNDYwMiwibG9jYXRpb24iOiIxIiwicmVxdWlyZXNfcGFzc19jaGFuZ2UiOmZhbHNlLCJ1c2VyIjp7InVzZXJuYW1lIjoiQkhNMzMwIiwibmFtZSI6IkJITSBUUkFERVJTIiwiaWRlbnRpZmllciI6IlNQLTA1MzIvMjAxNSIsInByb2ZpbGVfaWQiOjE0NjAyLCJlbXBsb3llZV9ubyI6bnVsbH19.n1iP3LmV3ESG2mWXwdQWu3VuqbCCgwqcSkGe3NMfNk0; TS01c34874030=015cf0519f567e8f847379f85b9f8f9a65661a312289bdb013704168184cbad1b482676932986445f61182e8a0619524d6f204f42f; TS01c34874=011d86dea8c3e47ba4276c1bffb24d4dd94c7a21b3e1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f629493097a7df0f8e85f3de8286e265b55d5e33f3' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://my.port.mv/main/consignment/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://my.port.mv/fonts/MaterialIcons-Regular.woff2' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYmFuZGhhcnUtcG9vbC9hcGkvbG9naW4iLCJpYXQiOjE3MjM2MzgzMDgsImV4cCI6MTcyMzY4MTUwOCwibmJmIjoxNzIzNjM4MzA4LCJqdGkiOiI4TThIeVpzV2ZUWDlJdUlzIiwic3ViIjo0MjIsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEiLCJwcm9maWxlX2lkIjoxNDYwMiwibG9jYXRpb24iOiIxIiwicmVxdWlyZXNfcGFzc19jaGFuZ2UiOmZhbHNlLCJ1c2VyIjp7InVzZXJuYW1lIjoiQkhNMzMwIiwibmFtZSI6IkJITSBUUkFERVJTIiwiaWRlbnRpZmllciI6IlNQLTA1MzIvMjAxNSIsInByb2ZpbGVfaWQiOjE0NjAyLCJlbXBsb3llZV9ubyI6bnVsbH19.n1iP3LmV3ESG2mWXwdQWu3VuqbCCgwqcSkGe3NMfNk0; TS01c34874030=015cf0519f567e8f847379f85b9f8f9a65661a312289bdb013704168184cbad1b482676932986445f61182e8a0619524d6f204f42f; TS01c34874=011d86dea8c3e47ba4276c1bffb24d4dd94c7a21b3e1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f629493097a7df0f8e85f3de8286e265b55d5e33f3' \
+  -H 'DNT: 1' \
+  -H 'Origin: https://my.port.mv' \
+  -H 'Referer: https://my.port.mv/main/consignment/' \
+  -H 'Sec-Fetch-Dest: font' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://portmvuploads.s3.ap-southeast-1.amazonaws.com/brand/logo_row_full.svg' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'Referer: https://my.port.mv/' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://my.port.mv/manifest.json' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://my.port.mv/main/consignment/' \
+  -H 'Sec-Fetch-Dest: manifest' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://my.port.mv/favicon-32x32.png' \
+  -H 'Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYmFuZGhhcnUtcG9vbC9hcGkvbG9naW4iLCJpYXQiOjE3MjM2MzgzMDgsImV4cCI6MTcyMzY4MTUwOCwibmJmIjoxNzIzNjM4MzA4LCJqdGkiOiI4TThIeVpzV2ZUWDlJdUlzIiwic3ViIjo0MjIsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEiLCJwcm9maWxlX2lkIjoxNDYwMiwibG9jYXRpb24iOiIxIiwicmVxdWlyZXNfcGFzc19jaGFuZ2UiOmZhbHNlLCJ1c2VyIjp7InVzZXJuYW1lIjoiQkhNMzMwIiwibmFtZSI6IkJITSBUUkFERVJTIiwiaWRlbnRpZmllciI6IlNQLTA1MzIvMjAxNSIsInByb2ZpbGVfaWQiOjE0NjAyLCJlbXBsb3llZV9ubyI6bnVsbH19.n1iP3LmV3ESG2mWXwdQWu3VuqbCCgwqcSkGe3NMfNk0; TS01c34874030=015cf0519f567e8f847379f85b9f8f9a65661a312289bdb013704168184cbad1b482676932986445f61182e8a0619524d6f204f42f; TS01c34874=011d86dea8c3e47ba4276c1bffb24d4dd94c7a21b3e1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f629493097a7df0f8e85f3de8286e265b55d5e33f3' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://my.port.mv/main/consignment/' \
+  -H 'Sec-Fetch-Dest: image' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAIAAACQd1PeAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAA5JREFUeNpiYGBgAAgwAAAEAAGbA+oJAAAAAElFTkSuQmCC' \
+  -H 'Referer;' \
+  -H 'Origin: https://my.port.mv' \
+  -H 'DNT: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' ;
+curl 'https://my.port.mv/api/logout' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYmFuZGhhcnUtcG9vbC9hcGkvbG9naW4iLCJpYXQiOjE3MjM2MzgzMDgsImV4cCI6MTcyMzY4MTUwOCwibmJmIjoxNzIzNjM4MzA4LCJqdGkiOiI4TThIeVpzV2ZUWDlJdUlzIiwic3ViIjo0MjIsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEiLCJwcm9maWxlX2lkIjoxNDYwMiwibG9jYXRpb24iOiIxIiwicmVxdWlyZXNfcGFzc19jaGFuZ2UiOmZhbHNlLCJ1c2VyIjp7InVzZXJuYW1lIjoiQkhNMzMwIiwibmFtZSI6IkJITSBUUkFERVJTIiwiaWRlbnRpZmllciI6IlNQLTA1MzIvMjAxNSIsInByb2ZpbGVfaWQiOjE0NjAyLCJlbXBsb3llZV9ubyI6bnVsbH19.n1iP3LmV3ESG2mWXwdQWu3VuqbCCgwqcSkGe3NMfNk0; TS01c34874030=015cf0519f567e8f847379f85b9f8f9a65661a312289bdb013704168184cbad1b482676932986445f61182e8a0619524d6f204f42f; TS01c34874=011d86dea8c3e47ba4276c1bffb24d4dd94c7a21b3e1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f629493097a7df0f8e85f3de8286e265b55d5e33f3' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://my.port.mv/main/consignment/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://my.port.mv/api/attributes/get/payment_providers' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: TS01c34874030=015cf0519f567e8f847379f85b9f8f9a65661a312289bdb013704168184cbad1b482676932986445f61182e8a0619524d6f204f42f; TS01c34874=011d86dea815711d8c9c51bde7bc4ffb05984a1589e1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f62949309715d70333d5570ec3b5f965149bb0901c' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://my.port.mv/main/consignment/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://my.port.mv/%7B%7B%20provider.banner%20%7D%7D' \
+  -H 'Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: TS01c34874030=015cf0519f567e8f847379f85b9f8f9a65661a312289bdb013704168184cbad1b482676932986445f61182e8a0619524d6f204f42f; TS01c34874=011d86dea815711d8c9c51bde7bc4ffb05984a1589e1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f62949309715d70333d5570ec3b5f965149bb0901c' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://my.port.mv/login' \
+  -H 'Sec-Fetch-Dest: image' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://my.port.mv/myport_logo.png' \
+  -H 'Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: TS01c34874030=015cf0519f567e8f847379f85b9f8f9a65661a312289bdb013704168184cbad1b482676932986445f61182e8a0619524d6f204f42f; TS01c34874=011d86dea815711d8c9c51bde7bc4ffb05984a1589e1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f62949309715d70333d5570ec3b5f965149bb0901c' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://my.port.mv/login' \
+  -H 'Sec-Fetch-Dest: image' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://portmvuploads.s3.ap-southeast-1.amazonaws.com/brand/logo_row.svg' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'Referer: https://my.port.mv/' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://fonts.gstatic.com/s/roboto/v32/KFOlCnqEu92Fr1MmEU9fBBc4AMP6lQ.woff2' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'Referer: https://fonts.googleapis.com/' \
+  -H 'Origin: https://my.port.mv' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://fonts.gstatic.com/s/roboto/v32/KFOmCnqEu92Fr1Mu4mxKKTU1Kg.woff2' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'Referer: https://fonts.googleapis.com/' \
+  -H 'Origin: https://my.port.mv' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://portmvuploads.s3.ap-southeast-1.amazonaws.com/thirdparty/mib_banner.png' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'Referer: https://my.port.mv/' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://portmvuploads.s3.ap-southeast-1.amazonaws.com/thirdparty/bml_banner.png' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'Referer: https://my.port.mv/' \
+  -H 'DNT: 1' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa/inline/injected/styles/inline-tooltip.css' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'DNT: 1' ;
+curl 'chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa/inline/images/icons/onepassword-stateful-container-right.svg' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'DNT: 1' ;
+curl 'chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa/inline/images/icons/chevron.svg' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'DNT: 1' ;
+curl 'chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa/inline/images/icons/lock.svg' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'DNT: 1' ;
+curl 'chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa/inline/menu/menu.html?frameIdentifier=eghglu&token=uccx5y&displayHost=my.port.mv&fieldDesignation=username&formDesignation=login&suggestions=%5B%7B%22type%22%3A%22SuggestedCategory%22%2C%22data%22%3A%7B%22type%22%3A%22001%22%7D%7D%2C%7B%22type%22%3A%22SuggestedCategory%22%2C%22data%22%3A%7B%22type%22%3A%22005%22%7D%7D%5D&formEdited=false&fieldEdited=false&locked=false&locale=en&appTheme=system&numberOfItems=4&areAllAccountsFrozen=false&inlineSavingEnabled=true&unleashFeatures=%7B%22b5x-identity-saving%22%3Atrue%2C%22b5x-next-gen-inline%22%3Afalse%2C%22b5x-filling-saving-telemetry%22%3Afalse%7D' \
+  -H 'DNT: 1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf/inline/injected/styles/inline-tooltip.css' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'DNT: 1' ;
+curl 'chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf/inline/images/icons/onepassword-stateful-container-right.svg' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'DNT: 1' ;
+curl 'chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf/inline/images/icons/chevron.svg' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'DNT: 1' ;
+curl 'chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf/inline/images/icons/lock.svg' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'DNT: 1' ;
+curl 'chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf/inline/menu/menu.html?frameIdentifier=6trld0&token=10f6zeh&displayHost=my.port.mv&fieldDesignation=username&formDesignation=login&suggestions=%5B%7B%22type%22%3A%22SuggestedCategory%22%2C%22data%22%3A%7B%22type%22%3A%22001%22%7D%7D%2C%7B%22type%22%3A%22SuggestedCategory%22%2C%22data%22%3A%7B%22type%22%3A%22005%22%7D%7D%5D&formEdited=false&fieldEdited=false&locked=false&locale=en&appTheme=system&numberOfItems=4&areAllAccountsFrozen=false&inlineSavingEnabled=true&unleashFeatures=%7B%22b5x-identity-saving%22%3Atrue%2C%22b5x-next-gen-inline%22%3Afalse%2C%22b5x-filling-saving-telemetry%22%3Atrue%7D' \
+  -H 'DNT: 1' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf/assets/woff2/Inter-italic.var-SWFAXF2C.woff2' \
+  -H 'Referer;' \
+  -H 'Origin: chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf' \
+  -H 'DNT: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' ;
+curl 'chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf/assets/woff2/Inter-roman.var-WIJJYAE4.woff2' \
+  -H 'Referer;' \
+  -H 'Origin: chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf' \
+  -H 'DNT: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' ;
+curl 'chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf/inline/menu/menu.css' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'DNT: 1' ;
+curl 'chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf/inline/menu/menu.js' \
+  -H 'Referer;' \
+  -H 'Origin: chrome-extension://khgocmkkpikpnmmkgmdnfckapcdkgfaf' \
+  -H 'DNT: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' ;
+curl 'chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa/assets/woff2/Inter-italic.var-SWFAXF2C.woff2' \
+  -H 'Referer;' \
+  -H 'Origin: chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa' \
+  -H 'DNT: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' ;
+curl 'chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa/assets/woff2/Inter-roman.var-WIJJYAE4.woff2' \
+  -H 'Referer;' \
+  -H 'Origin: chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa' \
+  -H 'DNT: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' ;
+curl 'chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa/inline/menu/menu.css' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'DNT: 1' ;
+curl 'chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa/inline/menu/menu.js' \
+  -H 'Referer;' \
+  -H 'Origin: chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa' \
+  -H 'DNT: 1' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' ;
+curl 'https://c.1password.com/richicons/images/login/120/my.port.mv.png' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'dnt: 1' \
+  -H 'priority: u=1, i' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: none' \
+  -H 'user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' ;
+curl 'https://c.1password.com/richicons/images/login/120/my.port.mv.png' \
+  -H 'accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'accept-language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'dnt: 1' \
+  -H 'priority: u=1, i' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' \
+  -H 'sec-fetch-dest: image' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-site: none' \
+  -H 'user-agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' ;
+curl 'https://my.port.mv/api/login' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/json;charset=UTF-8' \
+  -H 'Cookie: TS01c34874030=015cf0519f567e8f847379f85b9f8f9a65661a312289bdb013704168184cbad1b482676932986445f61182e8a0619524d6f204f42f; TS01c34874=011d86dea815711d8c9c51bde7bc4ffb05984a1589e1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f62949309715d70333d5570ec3b5f965149bb0901c' \
+  -H 'DNT: 1' \
+  -H 'Origin: https://my.port.mv' \
+  -H 'Referer: https://my.port.mv/login' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' \
+  --data-raw '{"username":"BHM330","password":"BHMtraders"}' ;
+curl 'https://my.port.mv/api/user_details' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYmFuZGhhcnUtcG9vbC9hcGkvbG9naW4iLCJpYXQiOjE3MjM2Mzg4MDcsImV4cCI6MTcyMzY4MjAwNywibmJmIjoxNzIzNjM4ODA3LCJqdGkiOiJkSFl5NW9nbkh0Qk9qdzU5Iiwic3ViIjo0MjIsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEiLCJwcm9maWxlX2lkIjoxNDYwMiwibG9jYXRpb24iOiIxIiwicmVxdWlyZXNfcGFzc19jaGFuZ2UiOmZhbHNlLCJ1c2VyIjp7InVzZXJuYW1lIjoiQkhNMzMwIiwibmFtZSI6IkJITSBUUkFERVJTIiwiaWRlbnRpZmllciI6IlNQLTA1MzIvMjAxNSIsInByb2ZpbGVfaWQiOjE0NjAyLCJlbXBsb3llZV9ubyI6bnVsbH19.4L2rTF5NJu-eA4BJnA3YQDnHBT4pMghBcdlRW9DsmLA; TS01c34874=011d86dea8055b951a54659c222f7ac5befedf5f3fe1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f6294930972501e83f91482c7c550b657288e97f92; TS01c34874030=015cf0519ff68aa765847a73b0e7c8e9e1ad56750589bdb013704168184cbad1b482676932ee3d176a7d2fdd769fc390f15dfded59' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://my.port.mv/login' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://my.port.mv/api/active_sessions' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYmFuZGhhcnUtcG9vbC9hcGkvbG9naW4iLCJpYXQiOjE3MjM2Mzg4MDcsImV4cCI6MTcyMzY4MjAwNywibmJmIjoxNzIzNjM4ODA3LCJqdGkiOiJkSFl5NW9nbkh0Qk9qdzU5Iiwic3ViIjo0MjIsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEiLCJwcm9maWxlX2lkIjoxNDYwMiwibG9jYXRpb24iOiIxIiwicmVxdWlyZXNfcGFzc19jaGFuZ2UiOmZhbHNlLCJ1c2VyIjp7InVzZXJuYW1lIjoiQkhNMzMwIiwibmFtZSI6IkJITSBUUkFERVJTIiwiaWRlbnRpZmllciI6IlNQLTA1MzIvMjAxNSIsInByb2ZpbGVfaWQiOjE0NjAyLCJlbXBsb3llZV9ubyI6bnVsbH19.4L2rTF5NJu-eA4BJnA3YQDnHBT4pMghBcdlRW9DsmLA; TS01c34874=011d86dea8055b951a54659c222f7ac5befedf5f3fe1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f6294930972501e83f91482c7c550b657288e97f92; TS01c34874030=015cf0519ff68aa765847a73b0e7c8e9e1ad56750589bdb013704168184cbad1b482676932ee3d176a7d2fdd769fc390f15dfded59' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://my.port.mv/login' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'https://my.port.mv/api/announcements' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vYmFuZGhhcnUtcG9vbC9hcGkvbG9naW4iLCJpYXQiOjE3MjM2Mzg4MDcsImV4cCI6MTcyMzY4MjAwNywibmJmIjoxNzIzNjM4ODA3LCJqdGkiOiJkSFl5NW9nbkh0Qk9qdzU5Iiwic3ViIjo0MjIsInBydiI6Ijg3ZTBhZjFlZjlmZDE1ODEyZmRlYzk3MTUzYTE0ZTBiMDQ3NTQ2YWEiLCJwcm9maWxlX2lkIjoxNDYwMiwibG9jYXRpb24iOiIxIiwicmVxdWlyZXNfcGFzc19jaGFuZ2UiOmZhbHNlLCJ1c2VyIjp7InVzZXJuYW1lIjoiQkhNMzMwIiwibmFtZSI6IkJITSBUUkFERVJTIiwiaWRlbnRpZmllciI6IlNQLTA1MzIvMjAxNSIsInByb2ZpbGVfaWQiOjE0NjAyLCJlbXBsb3llZV9ubyI6bnVsbH19.4L2rTF5NJu-eA4BJnA3YQDnHBT4pMghBcdlRW9DsmLA; TS01c34874=011d86dea8055b951a54659c222f7ac5befedf5f3fe1b607676130d81f90db9776bc4a2950881cb35831667af7348b89f6294930972501e83f91482c7c550b657288e97f92; TS01c34874030=015cf0519ff68aa765847a73b0e7c8e9e1ad56750589bdb013704168184cbad1b482676932ee3d176a7d2fdd769fc390f15dfded59' \
+  -H 'DNT: 1' \
+  -H 'Referer: https://my.port.mv/login' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'sec-ch-ua: "Chromium";v="127", "Not)A;Brand";v="99"' \
+  -H 'sec-ch-ua-mobile: ?1' \
+  -H 'sec-ch-ua-platform: "Android"' ;
+curl 'chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa/images/icons/app_icon-light_bg-color-unlocked-12.png' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'DNT: 1' ;
+curl 'chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa/images/icons/app_icon-light_bg-color-unlocked-16.png' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'DNT: 1' ;
+curl 'chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa/images/icons/app_icon-light_bg-color-unlocked-19.png' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'DNT: 1' ;
+curl 'chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa/images/icons/app_icon-light_bg-color-unlocked-24.png' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'DNT: 1' ;
+curl 'chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa/images/icons/app_icon-light_bg-color-unlocked-32.png' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'DNT: 1' ;
+curl 'chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa/images/icons/app_icon-light_bg-color-unlocked-38.png' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'DNT: 1' ;
+curl 'chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa/images/icons/app_icon-light_bg-color-unlocked-48.png' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'DNT: 1' ;
+curl 'chrome-extension://aeblfdkhhhdcdjpifhhbdiojplfjncoa/images/icons/app_icon-light_bg-color-unlocked-72.png' \
+  -H 'Referer;' \
+  -H 'User-Agent: Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Mobile Safari/537.36' \
+  -H 'DNT: 1'

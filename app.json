@@ -1,0 +1,34 @@
+{
+    "id": "612cdc63-6ee0-4dc9-a24a-f0d2e5a19bc5",
+    "name": "GeneratedProject13",
+    "publisher": "Default Publisher",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [
+   
+    ],
+    "screenshots": [],
+    "platform": "1.0.0.0",
+    "application": "24.3.21374.21517",
+    "idRanges": [
+        {
+            "from": 80100,
+            "to": 80149
+        }
+    ],
+    "resourceExposurePolicy": {
+        "allowDebugging": true,
+        "allowDownloadingSource": true,
+        "includeSourceInSymbolFile": true
+    },
+    "runtime": "13.0",
+    "features": [
+        "NoImplicitWith"
+    ]
+}
